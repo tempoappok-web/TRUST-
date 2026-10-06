@@ -1,0 +1,12 @@
+{
+  "name": "E-Justice",
+  "description": "Plateforme judiciaire intelligente : dépôt de plainte vocal multilingue, audience vidéo avec greffe IA, et casier judiciaire sur blockchain privée.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
